@@ -3,13 +3,14 @@
 
 
  #### Alex Monroe
+
 ***
 
 #### contasct
 **Phone:**  +987 654 3213
 **E-Mail:** testmail@gmail.com
 **Telegram**  @testtelegram
-**Discor** testName
+**Discord** testName
 
 ***
 
