@@ -1,1 +1,0 @@
-https://MonroeLionel.github.io/rsschool-cv/cv
